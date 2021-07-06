@@ -22,7 +22,6 @@ git clone https://github.com/Kalunge/Hello-MIrcoverse-Project.git
 
 ```
 
-## Authors
 
 👤 **Author1**
 
